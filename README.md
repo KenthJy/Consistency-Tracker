@@ -19,10 +19,10 @@
 - Complete reading of [Coding All-In-One for Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/coding/coding-all-in-one-for-dummies-281666/)
 
 ## Completed Projects
-
-| No.  |  Project Title  |  Completed On | Languages Used
+  
+| No.  |  FCC Projects  |  Completed On | Languages Used            
 | :------------: | ------------ | :------------: | :------------: |
-| 1  | |  | |
+| 1  | |  | |    
 | 2  | |  | |
 | 3  | |  | |
 | 4  | |  | |
@@ -35,3 +35,18 @@
 | 11 | |  | |
 | 12 | |  | |
 
+
+| No.  |  Scirimba Projects  |  Completed On | Languages Used
+| :------------: | ------------ | :------------: | :------------: |
+| 1  | |  | |    
+| 2  | |  | |
+| 3  | |  | |
+| 4  | |  | |
+| 5  | |  | |
+| 6  | |  | |
+| 7  | |  | |
+| 8  | |  | |
+| 9  | |  | |
+| 10  | |  | |
+| 11 | |  | |
+| 12 | |  | |
