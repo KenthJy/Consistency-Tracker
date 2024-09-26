@@ -24,7 +24,7 @@
 | :------------: | ------------ | :------------: | :------------: |
 | 1  | Survey Form| May 22, 2024 |Html/Css|    
 | 2  | Tribute Page | May 22, 2024 | Html/Css|
-| 3  | |  | |
+| 3  | Pyramid Generator | Sept 26, 2024  | Html/Css/Js |
 | 4  | |  | |
 | 5  | |  | |
 | 6  | |  | |
