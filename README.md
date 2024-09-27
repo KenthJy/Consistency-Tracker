@@ -5,7 +5,7 @@
 
 |Day #46 |  Start Date | Current Date | Total Hours |
 | ------------ | ------------ | ------------ | ------------ |
-| | Aug 10, 2024 | Sep 24, 2024| 184 hrs |
+| | Aug 10, 2024 | Sep 24, 2024| 204 hrs |
 
 ## Goals
 - Make it a habit of coding during the week and learning something new
