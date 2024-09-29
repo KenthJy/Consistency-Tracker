@@ -26,7 +26,7 @@
 | 2  | Tribute Page | May 22, 2024 | Html/Css|
 | 3  | Pyramid Generator | Sept 26, 2024  | Html/Css/Js |
 | 4  | Gradebook App|  Sept 27, 2024| Html/Css/Js|
-| 5  | |  | |
+| 5  | Text Game | Sept 28, 2024 |Html/Css/Js |
 | 6  | |  | |
 | 7  | |  | |
 | 8  | |  | |
@@ -50,3 +50,4 @@
 | 10  | Meme Picker| Sept 13 2024 | Html/Css/Js |
 | 11 | NewJeansxTwice-Gif-Generator| Sept 15, 2024 | Html/Css/Js |
 | 12 | Twitter | Sept 20, 2024 | Html/Css/Js |
+| 12 | Restaurant App Order | Sept 27, 2024 | Html/Css/Js |
