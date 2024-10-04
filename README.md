@@ -1,6 +1,6 @@
 # 6hrs of Coding Daily
 
-**Main target and goal:** ***I will code for 4-6hrs everyday till I have a soild foundation for becoming a front-end developer.***
+**Main target and goal:** ***I will code for 4-6hrs everyday till I have a solid foundation for becoming a front-end developer.***
 
 
 |Day #46 |  Start Date | Current Date | Total Hours |
@@ -27,8 +27,8 @@
 | 3  | Pyramid Generator | Sept 26, 2024  | Html/Css/Js |
 | 4  | Gradebook App|  Sept 27, 2024| Html/Css/Js|
 | 5  | Text Game | Sept 28, 2024 |Html/Css/Js |
-| 6  | Review Js Fundamentals By Building a Gradebook App|  | |
-| 7  | | Learn Basic Debugging by building a Rock, Paper, Scissor Game | |
+| 6  | Review Js Fundamentals By Building a Gradebook App| Sept 30, 2024 | Html/Css/Js |
+| 7  | | Learn Basic Debugging by building a Rock, Paper, Scissor Game | Html/Css/Js  |
 | 8  | |  | |
 | 9  | |  | |
 | 10  | |  | |
