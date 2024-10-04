@@ -28,7 +28,7 @@
 | 4  | Gradebook App|  Sept 27, 2024| Html/Css/Js|
 | 5  | Text Game | Sept 28, 2024 |Html/Css/Js |
 | 6  | Review Js Fundamentals By Building a Gradebook App| Sept 30, 2024 | Html/Css/Js |
-| 7  | | Learn Basic Debugging by building a Rock, Paper, Scissor Game | Html/Css/Js  |
+| 7  |Learn Basic Debugging by building a Rock, Paper, Scissor Game | October 3 | Html/Css/Js  |
 | 8  | |  | |
 | 9  | |  | |
 | 10  | |  | |
