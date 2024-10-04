@@ -27,8 +27,8 @@
 | 3  | Pyramid Generator | Sept 26, 2024  | Html/Css/Js |
 | 4  | Gradebook App|  Sept 27, 2024| Html/Css/Js|
 | 5  | Text Game | Sept 28, 2024 |Html/Css/Js |
-| 6  | |  | |
-| 7  | |  | |
+| 6  | Review Js Fundamentals By Building a Gradebook App|  | |
+| 7  | | Learn Basic Debugging by building a Rock, Paper, Scissor Game | |
 | 8  | |  | |
 | 9  | |  | |
 | 10  | |  | |
