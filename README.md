@@ -3,7 +3,7 @@
 **Main target and goal:** ***I will code for 4-6hrs everyday till I have a solid foundation for becoming a front-end developer.***
 
 
-|Day #56|  Start Date | Current Date | Total Days |
+|Day #58|  Start Date | Current Date | Total Days |
 | ------------ | ------------ | ------------ | ------------ |
 | | Aug 10, 2024 | Oct 10, 2024| 56 |
 
